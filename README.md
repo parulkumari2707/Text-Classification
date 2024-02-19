@@ -23,11 +23,11 @@ Usage
 ====
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/text-classification-naive-bayes.git
+git clone https://github.com/parulkumari2707/Text-Classification.git
 ```
 2. Navigate to the project directory:
 ``` bash
-cd text-classification-naive-bayes
+cd text-classification
 ```
 3. Run the Python script text_classification.py to perform text classification using Naive Bayes:
 ```bash
